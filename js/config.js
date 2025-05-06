@@ -107,6 +107,31 @@ const API_SITES = {
         name: 'lsb资源',
         adult: true
     },
+    fanhao: {
+        api: 'http://fhapi9.com/',
+        name: '番号资源',
+        adult: true
+    },
+    yikan: {
+        api: 'https://api.yikanapi.com/',
+        name: '易看资源',
+        adult: true
+    },
+    lebo: {
+        api: 'https://lbapi9.com/',
+        name: '乐播资源',
+        adult: true
+    },
+    tantan: {
+        api: 'https://apittzy.com/',
+        name: '探探资源',
+        adult: true
+    },
+    madou: {
+        api: 'https://91md.me/',
+        name: '91麻豆',
+        adult: true
+    },
     huangcang: {
         api: 'https://hsckzy.vip',
         name: '黄色仓库',
